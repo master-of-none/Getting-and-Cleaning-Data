@@ -1,4 +1,4 @@
-## Getting and Cleaning Data - peer assessment project
+## Getting and Cleaning Data - Peer Graded Assignment Project
 
 
 ## The original data was transformed by
@@ -10,7 +10,7 @@
 5. Creating a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
 ## About R script
-File with R code "run_analysis.R" perform 5 following steps (in accordance assigned task of course work)
+File with R code "run_analysis.R" perform 5 following steps (in accordance assigned task of this course work)
 
 ## About variables:   
 * `x_train`, `y_train`, `x_test`, `y_test`, `subject_train` and `subject_test` contain the data from the downloaded files.
